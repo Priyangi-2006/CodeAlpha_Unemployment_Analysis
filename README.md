@@ -1,4 +1,4 @@
-# CodeAlpha Task 2 — Unemployment Analysis with Python
+# Unemployment Analysis with Python
 
 ## Objective
 Analyze unemployment-rate data using Python, clean the dataset, explore trends, investigate the impact of COVID-19, identify regional patterns, and create visualizations.
